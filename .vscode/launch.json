@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Zoo",
+            "request": "launch",
+            "mainClass": "chapter9.Zoo",
+            "projectName": "ClassWork_95cb28e3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BandBoosterTester",
+            "request": "launch",
+            "mainClass": "chapter9.BandBoosterTester",
+            "projectName": "ClassWork_95cb28e3"
+        }
+    ]
+}
